@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1828" it="0" lt="1761" ct="0" ts="1703150076647" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="101401" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.jianshu.com/p/790c21353c83</java.net.URL>
+</httpSample>
+<sample t="1" it="0" lt="0" ct="0" ts="1703150078520" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="248" sby="0" ng="1" na="1"/>
+
+</testResults>
